@@ -1,13 +1,12 @@
 # modify position by rotation
 <b>query</b>
 
+![73130111-5020e980-4035-11ea-8dd2-fd2f65c1523d](https://user-images.githubusercontent.com/48679574/83778438-b265b700-a6c5-11ea-9d12-279021352571.jpeg)
 
-![query1](https://user-images.githubusercontent.com/48679574/73130111-5020e980-4035-11ea-8dd2-fd2f65c1523d.jpeg)
 
 <b>modified query</b>
 
-
-![rotation_modified](https://user-images.githubusercontent.com/48679574/73130112-5747f780-4035-11ea-9cd1-2b636edc884a.png)
+![73130112-5747f780-4035-11ea-9cd1-2b636edc884a](https://user-images.githubusercontent.com/48679574/83778450-b42f7a80-a6c5-11ea-97d1-4689e3aa48f7.png)
 
 
 # opencv methods
