@@ -39,4 +39,4 @@
 
 <b>image_similarity</b><hr>
 
-![image_similarity](https://user-images.githubusercontent.com/48679574/73130171-7c893580-4036-11ea-80e7-d93cdda2bef0.png)
+![73130171-7c893580-4036-11ea-80e7-d93cdda2bef0](https://user-images.githubusercontent.com/48679574/83779002-5b141680-a6c6-11ea-83ee-01b16c006f74.png)
