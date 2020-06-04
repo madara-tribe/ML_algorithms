@@ -13,16 +13,16 @@
 
 <b>Segmentation</b><hr>
 
-![Segmentation](https://user-images.githubusercontent.com/48679574/73130130-c6bde700-4035-11ea-964a-24febdcc5034.png)
+![73130130-c6bde700-4035-11ea-964a-24febdcc5034](https://user-images.githubusercontent.com/48679574/83778599-e4771900-a6c5-11ea-8685-623fb6fe8bce.png)
 
 <b>masking</b><hr>
 
-![masking](https://user-images.githubusercontent.com/48679574/73130132-c9204100-4035-11ea-87c0-5126bae77472.png)
+![73130132-c9204100-4035-11ea-87c0-5126bae77472](https://user-images.githubusercontent.com/48679574/83778606-e5a84600-a6c5-11ea-905d-138b64411dfe.png)
 
 
 <b>SaliencyDetection</b><hr>
 
-![SaliencyDetection](https://user-images.githubusercontent.com/48679574/73130142-071d6500-4036-11ea-8f85-fc622ed8902b.png)
+![73130142-071d6500-4036-11ea-8f85-fc622ed8902b](https://user-images.githubusercontent.com/48679574/83778613-e7720980-a6c5-11ea-9806-4adc0573c30f.png)
 
 <b>RegularGridCrop</b><hr>
 
