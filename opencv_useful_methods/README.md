@@ -26,18 +26,16 @@
 
 <b>RegularGridCrop</b><hr>
 
-![RegularGridCrop](https://user-images.githubusercontent.com/48679574/73130143-10a6cd00-4036-11ea-8912-ffab8eceea5b.png)
+![73130143-10a6cd00-4036-11ea-8912-ffab8eceea5b](https://user-images.githubusercontent.com/48679574/83778782-21431000-a6c6-11ea-8731-54e98716a2b5.png)
 
 
 <b>Color Reduce</b><hr>
 
-![Color_Reduce](https://user-images.githubusercontent.com/48679574/73130161-6a0efc00-4036-11ea-9dcf-cf43a1055795.png)
-
+![73130161-6a0efc00-4036-11ea-9dcf-cf43a1055795](https://user-images.githubusercontent.com/48679574/83778789-22743d00-a6c6-11ea-8364-ad3d258d2c9f.png)
 
 <b>Binary Threshold</b><hr>
 
-![Binary_Threshold](https://user-images.githubusercontent.com/48679574/73130164-709d7380-4036-11ea-9674-0f7d52d71591.png)
-
+![73130164-709d7380-4036-11ea-9674-0f7d52d71591](https://user-images.githubusercontent.com/48679574/83778793-23a56a00-a6c6-11ea-91b8-aabef66c2629.png)
 
 <b>image_similarity</b><hr>
 
