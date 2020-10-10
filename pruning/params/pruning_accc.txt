@@ -1,0 +1,2 @@
+Baseline test accuracy: 0.8828751
+Pruned test accuracy: 0.8903627
