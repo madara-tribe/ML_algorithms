@@ -1,0 +1,7 @@
+Keras==2.2.5
+tensorflow==1.15.0
+numpy
+nmslib
+opencv-python
+scikit-learn
+matplotlib
